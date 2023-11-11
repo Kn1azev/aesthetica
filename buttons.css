@@ -1,0 +1,22 @@
+.buttonmenu{
+    width:200px;
+    height:130px;
+    background-color:rgb(0,0,0,0);
+    border:none;
+    position:relative}
+.buttonmenu:hover{
+    background-color:rgba(0,0,0,0.1)}
+.buttonmenu:active{
+    background-color: rgba(0,0,0,0.2)}
+
+
+.buttonmenu1{
+    width:192px;
+    height:130px;
+    background-color:rgba(0,0,0,0.3);
+    border:none;
+    position:relative}
+.buttonmenu1:hover{
+    background-color:rgba(0,0,0,0.4)}
+.buttonmenu1:active{
+    background-color: rgba(0,0,0,0.5)}

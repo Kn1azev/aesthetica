@@ -1,0 +1,39 @@
+body{
+    min-height: 100vh;
+    min-width:100vw;
+    display:flex;
+    justify-content:center;
+    overflow: hidden}
+
+.background1{
+    margins:none;
+    width:100vw;
+    height:800px;
+    background: url("aesthetica_bgnd.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position:center;
+    opacity:0.7;
+    display:flex;
+    justify-content:center;
+    align-content:center}
+
+.menu-container{
+    background-color: rgba(0,0,0,0.3);
+    width: 100vw;
+    position: fixed;
+    top:20px;
+    display:flex;
+    justify-content: space-between}
+
+.menu-h1{
+    padding: 20px 20px}
+
+.dropdown-menu{
+    position:absolute;
+    top:150px;
+    right:0px;
+    display:flex;
+    flex-direction:column;
+}
